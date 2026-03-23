@@ -202,6 +202,7 @@ Issues and PRs welcome at [GitHub](https://github.com/henu-wang/keeprule-pypi).
 - [Portfolio Health Check](https://henu-wang.github.io/keeprule-tools/portfolio-check.html) - Grade your portfolio
 - [Fear & Greed Calculator](https://henu-wang.github.io/keeprule-tools/fear-greed.html) - Market sentiment tool
 - [Decision Tree](https://henu-wang.github.io/keeprule-tools/decision-tree.html) - Buy/Hold/Sell guidance
+- [Investment Calculators](https://henu-wang.github.io/keeprule-calculators/) - Compound interest, retirement, DCA & more
 - [30-Day Challenge](https://henu-wang.github.io/keeprule-challenge/) - Transform your investing
 
 ### For Developers
@@ -217,6 +218,10 @@ Issues and PRs welcome at [GitHub](https://github.com/henu-wang/keeprule-pypi).
 - [Free Ebook](https://henu-wang.github.io/keeprule-ebook/download.html) - 100 Investment Principles
 - [Email Course](https://henu-wang.github.io/keeprule-email-course/) - 7-day Buffett course
 - [Infographics](https://henu-wang.github.io/keeprule-infographics/) - Visual investing guides
+- [Investment Glossary](https://henu-wang.github.io/keeprule-glossary/) - 100 terms every investor should know
+- [Annual Report](https://henu-wang.github.io/keeprule-report/) - State of Investment Principles 2026
+- [SEO Blog](https://henu-wang.github.io/keeprule-blog/) - Deep-dive investing articles
+- [Platform Comparisons](https://henu-wang.github.io/keeprule-comparisons/) - KeepRule vs alternatives
 
 ---
 Built by [William Wang](https://keeprule.com) | [All Tools](https://henu-wang.github.io/keeprule-hub/)
