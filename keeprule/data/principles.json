@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "text": "Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1.",
+    "author": "Warren Buffett",
+    "category": "Risk Management",
+    "source": "Berkshire Hathaway Shareholder Letter"
+  },
+  {
+    "id": 2,
+    "text": "Be fearful when others are greedy, and greedy when others are fearful.",
+    "author": "Warren Buffett",
+    "category": "Market Psychology",
+    "source": "Berkshire Hathaway Shareholder Letter, 2004"
+  },
+  {
+    "id": 3,
+    "text": "Price is what you pay. Value is what you get.",
+    "author": "Warren Buffett",
+    "category": "Value Investing",
+    "source": "Berkshire Hathaway Shareholder Letter, 2008"
+  },
+  {
+    "id": 4,
+    "text": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.",
+    "author": "Warren Buffett",
+    "category": "Value Investing",
+    "source": "Berkshire Hathaway Shareholder Letter, 1989"
+  },
+  {
+    "id": 5,
+    "text": "Our favorite holding period is forever.",
+    "author": "Warren Buffett",
+    "category": "Long-term Investing",
+    "source": "Berkshire Hathaway Shareholder Letter, 1988"
+  },
+  {
+    "id": 6,
+    "text": "Only buy something that you'd be perfectly happy to hold if the market shut down for 10 years.",
+    "author": "Warren Buffett",
+    "category": "Long-term Investing",
+    "source": "Interview"
+  },
+  {
+    "id": 7,
+    "text": "The stock market is a device for transferring money from the impatient to the patient.",
+    "author": "Warren Buffett",
+    "category": "Market Psychology",
+    "source": "Attributed"
+  },
+  {
+    "id": 8,
+    "text": "Risk comes from not knowing what you're doing.",
+    "author": "Warren Buffett",
+    "category": "Risk Management",
+    "source": "Attributed"
+  },
+  {
+    "id": 9,
+    "text": "Never invest in a business you cannot understand.",
+    "author": "Warren Buffett",
+    "category": "Circle of Competence",
+    "source": "Berkshire Hathaway Shareholder Letter"
+  },
+  {
+    "id": 10,
+    "text": "The most important thing in investing is knowing your circle of competence and staying inside of it.",
+    "author": "Warren Buffett",
+    "category": "Circle of Competence",
+    "source": "Berkshire Hathaway Shareholder Letter"
+  },
+  {
+    "id": 11,
+    "text": "Wide diversification is only required when investors do not understand what they are doing.",
+    "author": "Warren Buffett",
+    "category": "Portfolio Management",
+    "source": "The Essays of Warren Buffett"
+  },
+  {
+    "id": 12,
+    "text": "It takes 20 years to build a reputation and five minutes to ruin it.",
+    "author": "Warren Buffett",
+    "category": "Business Quality",
+    "source": "Attributed"
+  },
+  {
+    "id": 13,
+    "text": "I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will.",
+    "author": "Warren Buffett",
+    "category": "Business Quality",
+    "source": "Attributed"
+  },
+  {
+    "id": 14,
+    "text": "The best thing that happens to us is when a great company gets into temporary trouble. We want to buy them when they're on the operating table.",
+    "author": "Warren Buffett",
+    "category": "Value Investing",
+    "source": "Berkshire Hathaway Annual Meeting"
+  },
+  {
+    "id": 15,
+    "text": "In the business world, the rearview mirror is always clearer than the windshield.",
+    "author": "Warren Buffett",
+    "category": "Decision Making",
+    "source": "Berkshire Hathaway Shareholder Letter"
+  },
+  {
+    "id": 16,
+    "text": "Chains of habit are too light to be felt until they are too heavy to be broken.",
+    "author": "Warren Buffett",
+    "category": "Behavioral Finance",
+    "source": "Berkshire Hathaway Annual Meeting"
+  },
+  {
+    "id": 17,
+    "text": "The difference between successful people and really successful people is that really successful people say no to almost everything.",
+    "author": "Warren Buffett",
+    "category": "Decision Making",
+    "source": "Attributed"
+  },
+  {
+    "id": 18,
+    "text": "If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes.",
+    "author": "Warren Buffett",
+    "category": "Long-term Investing",
+    "source": "Berkshire Hathaway Shareholder Letter"
+  },
+  {
+    "id": 19,
+    "text": "Someone's sitting in the shade today because someone planted a tree a long time ago.",
+    "author": "Warren Buffett",
+    "category": "Long-term Investing",
+    "source": "Attributed"
+  },
+  {
+    "id": 20,
+    "text": "You only have to do a very few things right in your life so long as you don't do too many things wrong.",
+    "author": "Warren Buffett",
+    "category": "Decision Making",
+    "source": "Berkshire Hathaway Shareholder Letter"
+  },
+  {
+    "id": 21,
+    "text": "Invert, always invert.",
+    "author": "Charlie Munger",
+    "category": "Mental Models",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 22,
+    "text": "All I want to know is where I'm going to die, so I'll never go there.",
+    "author": "Charlie Munger",
+    "category": "Risk Management",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 23,
+    "text": "The big money is not in the buying and the selling, but in the waiting.",
+    "author": "Charlie Munger",
+    "category": "Long-term Investing",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 24,
+    "text": "Spend each day trying to be a little wiser than you were when you woke up.",
+    "author": "Charlie Munger",
+    "category": "Mental Models",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 25,
+    "text": "The desire to get rich fast is pretty dangerous.",
+    "author": "Charlie Munger",
+    "category": "Risk Management",
+    "source": "Berkshire Hathaway Annual Meeting"
+  },
+  {
+    "id": 26,
+    "text": "Knowing what you don't know is more useful than being brilliant.",
+    "author": "Charlie Munger",
+    "category": "Circle of Competence",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 27,
+    "text": "People calculate too much and think too little.",
+    "author": "Charlie Munger",
+    "category": "Decision Making",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 28,
+    "text": "Take a simple idea and take it seriously.",
+    "author": "Charlie Munger",
+    "category": "Mental Models",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 29,
+    "text": "The iron rule of nature is: you get what you reward for. If you want ants to come, you put sugar on the floor.",
+    "author": "Charlie Munger",
+    "category": "Mental Models",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 30,
+    "text": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.",
+    "author": "Charlie Munger",
+    "category": "Decision Making",
+    "source": "Wesco Financial Annual Meeting"
+  },
+  {
+    "id": 31,
+    "text": "Three things ruin people: drugs, liquor, and leverage.",
+    "author": "Charlie Munger",
+    "category": "Risk Management",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 32,
+    "text": "The world is not driven by greed; it's driven by envy.",
+    "author": "Charlie Munger",
+    "category": "Behavioral Finance",
+    "source": "Berkshire Hathaway Annual Meeting"
+  },
+  {
+    "id": 33,
+    "text": "Mimicking the herd invites regression to the mean.",
+    "author": "Charlie Munger",
+    "category": "Behavioral Finance",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 34,
+    "text": "If you buy things you do not need, soon you will have to sell things you need.",
+    "author": "Charlie Munger",
+    "category": "Financial Discipline",
+    "source": "Attributed"
+  },
+  {
+    "id": 35,
+    "text": "Acknowledge and remove your ignorance is the beginning of wisdom.",
+    "author": "Charlie Munger",
+    "category": "Mental Models",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 36,
+    "text": "A great business at a fair price is superior to a fair business at a great price.",
+    "author": "Charlie Munger",
+    "category": "Value Investing",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 37,
+    "text": "You don't have to be brilliant, only a little bit wiser than the other guys, on average, for a long, long time.",
+    "author": "Charlie Munger",
+    "category": "Long-term Investing",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 38,
+    "text": "The best armor of old age is a well-spent life preceding it.",
+    "author": "Charlie Munger",
+    "category": "Financial Discipline",
+    "source": "Attributed"
+  },
+  {
+    "id": 39,
+    "text": "Show me the incentive and I'll show you the outcome.",
+    "author": "Charlie Munger",
+    "category": "Mental Models",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 40,
+    "text": "Opportunity comes to the prepared mind.",
+    "author": "Charlie Munger",
+    "category": "Decision Making",
+    "source": "Poor Charlie's Almanack"
+  },
+  {
+    "id": 41,
+    "text": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Graham",
+    "category": "Value Investing",
+    "source": "Attributed"
+  },
+  {
+    "id": 42,
+    "text": "The intelligent investor is a realist who sells to optimists and buys from pessimists.",
+    "author": "Benjamin Graham",
+    "category": "Market Psychology",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 43,
+    "text": "In the short run, the market is a voting machine but in the long run, it is a weighing machine.",
+    "author": "Benjamin Graham",
+    "category": "Market Psychology",
+    "source": "Security Analysis"
+  },
+  {
+    "id": 44,
+    "text": "The margin of safety is always dependent on the price paid.",
+    "author": "Benjamin Graham",
+    "category": "Value Investing",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 45,
+    "text": "The individual investor should act consistently as an investor and not as a speculator.",
+    "author": "Benjamin Graham",
+    "category": "Financial Discipline",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 46,
+    "text": "Buy not on optimism, but on arithmetic.",
+    "author": "Benjamin Graham",
+    "category": "Value Investing",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 47,
+    "text": "The investor's chief problem — and even his worst enemy — is likely to be himself.",
+    "author": "Benjamin Graham",
+    "category": "Behavioral Finance",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 48,
+    "text": "Have the courage of your knowledge and experience. If you have formed a conclusion from the facts and if you know your judgment is sound, act on it.",
+    "author": "Benjamin Graham",
+    "category": "Decision Making",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 49,
+    "text": "To achieve satisfactory investment results is easier than most people realize; to achieve superior results is harder than it looks.",
+    "author": "Benjamin Graham",
+    "category": "Long-term Investing",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 50,
+    "text": "The essence of investment management is the management of risks, not the management of returns.",
+    "author": "Benjamin Graham",
+    "category": "Risk Management",
+    "source": "Security Analysis"
+  },
+  {
+    "id": 51,
+    "text": "Know what you own, and know why you own it.",
+    "author": "Peter Lynch",
+    "category": "Circle of Competence",
+    "source": "One Up on Wall Street"
+  },
+  {
+    "id": 52,
+    "text": "Go for a business that any idiot can run — because sooner or later, any idiot probably is going to run it.",
+    "author": "Peter Lynch",
+    "category": "Business Quality",
+    "source": "One Up on Wall Street"
+  },
+  {
+    "id": 53,
+    "text": "The person that turns over the most rocks wins the game.",
+    "author": "Peter Lynch",
+    "category": "Research",
+    "source": "Attributed"
+  },
+  {
+    "id": 54,
+    "text": "Far more money has been lost by investors preparing for corrections, or trying to anticipate corrections, than has been lost in corrections themselves.",
+    "author": "Peter Lynch",
+    "category": "Market Psychology",
+    "source": "One Up on Wall Street"
+  },
+  {
+    "id": 55,
+    "text": "Behind every stock is a company. Find out what it's doing.",
+    "author": "Peter Lynch",
+    "category": "Research",
+    "source": "One Up on Wall Street"
+  },
+  {
+    "id": 56,
+    "text": "If you spend more than 13 minutes analyzing economic and market forecasts, you've wasted 10 minutes.",
+    "author": "Peter Lynch",
+    "category": "Market Psychology",
+    "source": "Attributed"
+  },
+  {
+    "id": 57,
+    "text": "Investing without research is like playing stud poker and never looking at the cards.",
+    "author": "Peter Lynch",
+    "category": "Research",
+    "source": "One Up on Wall Street"
+  },
+  {
+    "id": 58,
+    "text": "The key to making money in stocks is not to get scared out of them.",
+    "author": "Peter Lynch",
+    "category": "Behavioral Finance",
+    "source": "One Up on Wall Street"
+  },
+  {
+    "id": 59,
+    "text": "Time is on your side when you own shares of superior companies.",
+    "author": "Peter Lynch",
+    "category": "Long-term Investing",
+    "source": "Beating the Street"
+  },
+  {
+    "id": 60,
+    "text": "You have to know what you own and why you own it. 'This baby is a cinch to go up!' doesn't count.",
+    "author": "Peter Lynch",
+    "category": "Circle of Competence",
+    "source": "One Up on Wall Street"
+  },
+  {
+    "id": 61,
+    "text": "The four most dangerous words in investing are: 'This time it's different.'",
+    "author": "John Templeton",
+    "category": "Market Psychology",
+    "source": "Attributed"
+  },
+  {
+    "id": 62,
+    "text": "Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria.",
+    "author": "John Templeton",
+    "category": "Market Psychology",
+    "source": "Attributed"
+  },
+  {
+    "id": 63,
+    "text": "The time of maximum pessimism is the best time to buy, and the time of maximum optimism is the best time to sell.",
+    "author": "John Templeton",
+    "category": "Market Psychology",
+    "source": "Attributed"
+  },
+  {
+    "id": 64,
+    "text": "Diversify. In stocks and bonds, as in much else, there is safety in numbers.",
+    "author": "John Templeton",
+    "category": "Portfolio Management",
+    "source": "Attributed"
+  },
+  {
+    "id": 65,
+    "text": "If you want to have a better performance than the crowd, you must do things differently from the crowd.",
+    "author": "John Templeton",
+    "category": "Decision Making",
+    "source": "Attributed"
+  },
+  {
+    "id": 66,
+    "text": "The most important quality for an investor is temperament, not intellect.",
+    "author": "Warren Buffett",
+    "category": "Behavioral Finance",
+    "source": "Berkshire Hathaway Annual Meeting"
+  },
+  {
+    "id": 67,
+    "text": "We don't have to be smarter than the rest. We have to be more disciplined than the rest.",
+    "author": "Warren Buffett",
+    "category": "Financial Discipline",
+    "source": "Berkshire Hathaway Annual Meeting"
+  },
+  {
+    "id": 68,
+    "text": "Returns decrease as motion increases.",
+    "author": "Warren Buffett",
+    "category": "Long-term Investing",
+    "source": "Berkshire Hathaway Shareholder Letter"
+  },
+  {
+    "id": 69,
+    "text": "The most important investment you can make is in yourself.",
+    "author": "Warren Buffett",
+    "category": "Mental Models",
+    "source": "Berkshire Hathaway Annual Meeting"
+  },
+  {
+    "id": 70,
+    "text": "Margin of safety — the three most important words in investing.",
+    "author": "Warren Buffett",
+    "category": "Value Investing",
+    "source": "Berkshire Hathaway Shareholder Letter"
+  },
+  {
+    "id": 71,
+    "text": "The secret to investing is to figure out the value of something and then pay a lot less.",
+    "author": "Joel Greenblatt",
+    "category": "Value Investing",
+    "source": "The Little Book That Beats the Market"
+  },
+  {
+    "id": 72,
+    "text": "Choosing individual stocks without any idea of what you're looking for is like running through a dynamite factory with a burning match.",
+    "author": "Joel Greenblatt",
+    "category": "Research",
+    "source": "You Can Be a Stock Market Genius"
+  },
+  {
+    "id": 73,
+    "text": "In investing, what is comfortable is rarely profitable.",
+    "author": "Robert Arnott",
+    "category": "Behavioral Finance",
+    "source": "Attributed"
+  },
+  {
+    "id": 74,
+    "text": "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+    "author": "Philip Fisher",
+    "category": "Value Investing",
+    "source": "Common Stocks and Uncommon Profits"
+  },
+  {
+    "id": 75,
+    "text": "I'd rather own a few stocks that I know a lot about than many stocks that I know little about.",
+    "author": "Philip Fisher",
+    "category": "Portfolio Management",
+    "source": "Common Stocks and Uncommon Profits"
+  },
+  {
+    "id": 76,
+    "text": "The stock market is never obvious. It is designed to fool most of the people, most of the time.",
+    "author": "Jesse Livermore",
+    "category": "Market Psychology",
+    "source": "Reminiscences of a Stock Operator"
+  },
+  {
+    "id": 77,
+    "text": "There is nothing new in Wall Street. There can't be because speculation is as old as the hills.",
+    "author": "Jesse Livermore",
+    "category": "Market Psychology",
+    "source": "Reminiscences of a Stock Operator"
+  },
+  {
+    "id": 78,
+    "text": "Money is made by sitting, not trading.",
+    "author": "Jesse Livermore",
+    "category": "Long-term Investing",
+    "source": "Reminiscences of a Stock Operator"
+  },
+  {
+    "id": 79,
+    "text": "It never was my thinking that made the big money for me. It always was my sitting.",
+    "author": "Jesse Livermore",
+    "category": "Long-term Investing",
+    "source": "Reminiscences of a Stock Operator"
+  },
+  {
+    "id": 80,
+    "text": "The biggest risk of all is not taking one.",
+    "author": "Mellody Hobson",
+    "category": "Risk Management",
+    "source": "TED Talk"
+  },
+  {
+    "id": 81,
+    "text": "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.",
+    "author": "Albert Einstein",
+    "category": "Long-term Investing",
+    "source": "Attributed"
+  },
+  {
+    "id": 82,
+    "text": "The goal of a successful trader is to make the best trades. Money is secondary.",
+    "author": "Alexander Elder",
+    "category": "Financial Discipline",
+    "source": "Trading for a Living"
+  },
+  {
+    "id": 83,
+    "text": "Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas.",
+    "author": "Paul Samuelson",
+    "category": "Long-term Investing",
+    "source": "Attributed"
+  },
+  {
+    "id": 84,
+    "text": "Markets can remain irrational longer than you can remain solvent.",
+    "author": "John Maynard Keynes",
+    "category": "Risk Management",
+    "source": "Attributed"
+  },
+  {
+    "id": 85,
+    "text": "The four most expensive words in the English language are 'This time it's different.'",
+    "author": "Carmen Reinhart",
+    "category": "Market Psychology",
+    "source": "This Time Is Different (book)"
+  },
+  {
+    "id": 86,
+    "text": "Good investing is boring.",
+    "author": "George Soros",
+    "category": "Financial Discipline",
+    "source": "Attributed"
+  },
+  {
+    "id": 87,
+    "text": "It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong.",
+    "author": "George Soros",
+    "category": "Risk Management",
+    "source": "The Alchemy of Finance"
+  },
+  {
+    "id": 88,
+    "text": "I'm only rich because I know when I'm wrong.",
+    "author": "George Soros",
+    "category": "Risk Management",
+    "source": "Attributed"
+  },
+  {
+    "id": 89,
+    "text": "Do not be embarrassed by your failures, learn from them and start again.",
+    "author": "Richard Branson",
+    "category": "Decision Making",
+    "source": "Attributed"
+  },
+  {
+    "id": 90,
+    "text": "The individual investor should act consistently as an investor and not as a speculator.",
+    "author": "Benjamin Graham",
+    "category": "Financial Discipline",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 91,
+    "text": "Successful investing is about managing risk, not avoiding it.",
+    "author": "Benjamin Graham",
+    "category": "Risk Management",
+    "source": "The Intelligent Investor"
+  },
+  {
+    "id": 92,
+    "text": "I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.",
+    "author": "Warren Buffett",
+    "category": "Market Psychology",
+    "source": "Columbia University Speech, 2004"
+  },
+  {
+    "id": 93,
+    "text": "Buy a stock the way you would buy a house. Understand and like it such that you'd be content to own it in the absence of any market.",
+    "author": "Warren Buffett",
+    "category": "Value Investing",
+    "source": "Attributed"
+  },
+  {
+    "id": 94,
+    "text": "Time in the market beats timing the market.",
+    "author": "Ken Fisher",
+    "category": "Long-term Investing",
+    "source": "Attributed"
+  },
+  {
+    "id": 95,
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "category": "Long-term Investing",
+    "source": "Traditional"
+  },
+  {
+    "id": 96,
+    "text": "Don't look for the needle in the haystack. Just buy the haystack!",
+    "author": "John Bogle",
+    "category": "Portfolio Management",
+    "source": "The Little Book of Common Sense Investing"
+  },
+  {
+    "id": 97,
+    "text": "If you have trouble imagining a 20% loss in the stock market, you shouldn't be in stocks.",
+    "author": "John Bogle",
+    "category": "Risk Management",
+    "source": "Attributed"
+  },
+  {
+    "id": 98,
+    "text": "The miracle of compounding returns is overwhelmed by the tyranny of compounding costs.",
+    "author": "John Bogle",
+    "category": "Financial Discipline",
+    "source": "The Little Book of Common Sense Investing"
+  },
+  {
+    "id": 99,
+    "text": "Focus on what you can control: costs, diversification, time horizon, and your own behavior.",
+    "author": "John Bogle",
+    "category": "Financial Discipline",
+    "source": "Attributed"
+  },
+  {
+    "id": 100,
+    "text": "Do not save what is left after spending, but spend what is left after saving.",
+    "author": "Warren Buffett",
+    "category": "Financial Discipline",
+    "source": "Attributed"
+  }
+]
